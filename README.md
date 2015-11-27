@@ -1,8 +1,8 @@
 # jade-static
 
 [![npm version](https://badge.fury.io/js/jade-static.svg)](https://badge.fury.io/js/jade-static)
-[![Build Status][http://img.shields.io/travis/shovon/jade-static/master.svg]][https://travis-ci.org/shovon/jade-static]
-[![Coverage][http://img.shields.io/coveralls/shovon/jade-static/master.svg]][https://coveralls.io/r/shovon/jade-static]
+[![Build Status](http://img.shields.io/travis/shovon/jade-static/master.svg)](https://travis-ci.org/shovon/jade-static)
+[![Coverage](http://img.shields.io/coveralls/shovon/jade-static/master.svg)](https://coveralls.io/r/shovon/jade-static)
 [![GitHub version](https://badge.fury.io/gh/shovon%2Fjade-static.svg)](https://badge.fury.io/gh/shovon%2Fjade-static)
 
 Serve static Jade templates from an Express server.
